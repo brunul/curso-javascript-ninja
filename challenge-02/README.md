@@ -23,8 +23,8 @@ Crie uma função que adicione um valor à variável criada acima, e retorne a s
 Onde VALOR é o novo valor da variável.
 */
 function escrita(){
-variavel = 'Valor da variável';
-return variavel;
+variavel = 10;
+return 'O valor da variável agora é ' + variavel;
 }
 
 // Invoque a função criada acima.
@@ -32,7 +32,7 @@ escrita();
 
 // Qual o retorno da função? (Use comentários de bloco).
 /*
-'Valor da variável'
+'O valor da variável agora é 10'
 */
 
 /*
